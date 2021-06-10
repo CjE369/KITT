@@ -1,0 +1,11 @@
+wolframalpha
+pyttsx3
+SpeechReognitio
+wikipedia
+winshell
+pyjokes
+requests
+twilio
+clint
+ecapture
+beautifulsoup4
