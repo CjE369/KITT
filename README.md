@@ -1,5 +1,5 @@
 # KITT
 
-usage 
+<h3>usage:</h3> 
 
-pip3 install -r requirement
+<code>pip3 install -r requirement.txt</code>
